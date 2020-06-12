@@ -65,8 +65,9 @@ Navigate into the `names` directory. Here you will find two text files containin
 Six seconds is an eternity so you've been tasked with speeding up the code. Can you get the runtime to under a second? Under one hundredth of a second?
 
 *You may not use the built in Python list, set, or dictionary in your solution for this problem.  However, you can and should use the provided `duplicates` list to return your solution.*
-
+seems like communist propoganda but ok.
 (Hint: You might try importing a data structure you built during the week)
+legit wouldnt help here
 
 
 #### Task 3. Reverse a Linked List
